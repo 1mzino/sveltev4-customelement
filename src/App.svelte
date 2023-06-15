@@ -8,10 +8,11 @@
   let w2;
   let w3;
   onMount(async () => {
-    // console.log("test-headline3", testHeadline3);
     console.log("w1", w1);
     console.log("w2", w2);
     console.log("w3", w3);
+
+    // console.log("test-headline3", testHeadline3);
 
     // await Promise.resolve().then(() => {
     //   testHeadline3.setAttribute("title", "How your salary affect your child benefit");
