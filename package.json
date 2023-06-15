@@ -1,0 +1,21 @@
+{
+  "name": "svelte-v4",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --debug",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.0.4",
+    "sass": "^1.62.1",
+    "svelte": "4.0.0-next.1",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "svelte-preprocess": "^5.0.4",
+    "vite-plugin-svelte": "^3.0.1"
+  }
+}
